@@ -6,8 +6,12 @@ You are given a list of projects and a list of dependencies (which is a list of 
 
 ### Example:
 Input:
-projects: a, b, c, d, e, f
-dependencies: (a, d), (f, b), (b, d), (f, a), (d, c)
+
+Projects: a, b, c, d, e, f
+
+Dependencies: (a, d), (f, b), (b, d), (f, a), (d, c)
+
 Output: f, e, a, b, d, c
 
-### Collaborated with Andrew DeMarco on a very inefficient solution :D
+
+Collaborated with Andrew DeMarco on a solution
